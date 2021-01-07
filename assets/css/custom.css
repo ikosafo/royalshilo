@@ -1,0 +1,54 @@
+::-webkit-scrollbar {
+    width: 10px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #DAA61E;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #F2AF1C;
+}
+img.rev-slidebg {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    width: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.overlay {
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+.rev-slidebg #slider-3-slide-1-layer-0{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 40%; /* Adjust this value to move the positioned div up and down */
+    background: rgba(0, 0, 0, 0.8);
+    font-family: Arial,sans-serif;
+    color: #fff;
+    width: 60%; /* Set the width of the positioned div */
+}

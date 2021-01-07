@@ -1,115 +1,62 @@
 <?php include "includes/header.php"; ?>
 
-    <!-- START homeclassicmain REVOLUTION SLIDER 6.0.1 -->
-    <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery">
-        <rs-module id="rev_slider_1_1" style="" data-version="6.0.1" class="rev_slider_1_1_height">
-            <!-- rs-slides -->
-            <rs-slides>
-                <!-- rs-slide -->
-                <rs-slide data-key="rs-1" data-title="Slide"
-                          data-thumb="images/slides/slider-mainbg-001.jpg" data-anim="  ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                    <img src="images/slides/slider-mainbg-001.jpg" title="home-mainslider-bg001"
-                         width="1920" height="850" class="rev-slidebg" data-no-retina>
-                    <rs-layer
-                            id="slider-1-slide-1-layer-0"
-                            style="margin-top: -100px !important;"
-                            class="ttm-bgcolor-skincolor"
-                            data-type="shape"
-                            data-rsp_ch="on"
-                            data-xy="xo:54px,54px,-100px,-96px;yo:327px,197px,105px,64px;"
-                            data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
-                            data-dim="w:55px,55px,34px,20px;h:4px,4px,2px,1px;"
-                            data-vbility="t,t,f,f"
-                            data-frame_0="x:50,50,31,19;"
-                            data-frame_1="e:Power0.easeIn;st:190;sR:190;"
-                            data-frame_999="o:0;st:w;sR:8510;"
-                            >
-                    </rs-layer>
-                    <a
-                            id="slider-1-slide-1-layer-1"
-                            style="margin-top: -100px !important;"
-                            class="rs-layer ttm-btn-bgcolor-skincolor ttm-btn ttm-btn-size-md"
-                            href="#" target="_self" rel="nofollow"
-                            data-type="text"
-                            data-rsp_ch="on"
-                            data-xy="x:l,l,l,c;xo:54px,54px,40px,0;yo:573px,443px,290px,193px;"
-                            data-text="s:15,15,12,12;l:27,27,23,25;fw:600;a:center;"
-                            data-padding="t:12,12,10,6;r:35,35,22,14;b:15,15,10,6;l:35,35,22,14;"
-                            data-frame_0="y:100%;"
-                            data-frame_1="st:940;sp:500;sR:940;"
-                            data-frame_999="o:0;st:w;sR:7560;"
-                            >Contact Us
-                    </a>
-                    <rs-layer
-                            id="slider-1-slide-1-layer-2"
-                            style="margin-top: -100px !important;"
-                            data-type="text"
-                            data-color="#1e2637"
-                            data-rsp_ch="on"
-                            data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:342px,212px,111px,84px;"
-                            data-text="w:normal;s:62,62,50,37;l:70,70,50,50;fw:600;"
-                            data-frame_0="x:-50,-50,-31,-19;"
-                            data-frame_1="e:Power0.easeIn;st:250;sp:800;sR:250;"
-                            data-frame_999="o:0;st:w;sR:7950;"
-                            >Welcome <strong class="ttm-textcolor-skincolor">to</strong> Royal Shilo
-                    </rs-layer>
-                    <rs-layer
-                            id="slider-1-slide-1-layer-3"
-                            style="margin-top: -100px !important;"
-                            data-type="text"
-                            data-color="#1e2637"
-                            data-rsp_ch="on"
-                            data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:409px,279px,163px,129px;"
-                            data-text="w:normal;s:62,62,50,37;l:70,70,50,50;fw:600;"
-                            data-frame_0="x:-50,-50,-31,-19;"
-                            data-frame_1="e:Power0.easeIn;st:450;sp:800;sR:450;"
-                            data-frame_999="o:0;st:w;sR:7750;"
-                            >Ghana Ltd
-                    </rs-layer>
+<style>
+    div.polaroid {
+        width: 80%;
+        background-color: white;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 25px;
+    }
 
-                    <rs-layer
-                            id="slider-1-slide-1-layer-5"
-                            style="margin-top: -100px !important;"
-                            data-type="text"
-                            data-color="#3b404c"
-                            data-rsp_ch="on"
-                            data-xy="xo:50px,50px,40px,-444px;yo:488px,358px,220px,113px;"
-                            data-text="s:16,16,14,8;l:27,27,23,14;"
-                            data-vbility="t,t,t,f"
-                            data-frame_0="x:-50,-50,-31,-19;"
-                            data-frame_1="e:Power0.easeIn;st:860;sp:500;sR:860;"
-                            data-frame_999="o:0;st:w;sR:7640;"
-                            >Company with a Difference
-                    </rs-layer>
+</style>
 
-                </rs-slide>
-                <!-- rs-slide -->
-            </rs-slides>
-        </rs-module><!-- rs-module -->
-    </rs-module-wrap>
-    <!-- END REVOLUTION SLIDER -->
-
-    <!--site-main start-->
+<!--site-main start-->
     <div class="site-main">
 
-        <!-- zero-padding-section -->
+        <section class="ttm-row second-row-title-section mt_90 ttm-bgcolor-darkgrey ttm-bg ttm-bgimage-yes bg-img9 clearfix"
+                 style="margin-top: 93px !important;">
+            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
+            <div class="container">
+                <div class="row"><!-- row -->
+                    <div class="col-lg-8 offset-lg-2">
+                        <div class="text-center">
+
+                            <!-- section-title -->
+                            <div class="section-title row-title clearfix">
+                                <div class="title-header">
+                                    <h2 class="title">Welcome to <span>Royal Shilo Ghana Ltd</span></h2>
+                                </div>
+                                <div class="title-desc">Company With a Difference</div>
+                            </div><!-- section-title end -->
+                            <div class="mt-40">
+                                <a href="contact" class="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-color-white">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section class="ttm-row zero-padding-section position-relative z-1 clearfix">
             <div class="container">
                 <div class="row no-gutters ttm-bgcolor-darkgrey featured-icon-box-style1-row">
                     <div class="col-md-4">
                         <!--  featured-icon-box -->
-                        <div class="featured-icon-box left-icon style1 ttm-bgcolor-skincolor">
-                            <div class="featured-icon"><!--  featured-icon -->
-                                <div class="ttm-icon ttm-icon_element-bgcolor-darkgrey ttm-icon_element-size-md">
-                                    <i class="flaticon flaticon-system"></i><!--  ttm-icon -->
+                        <a href="realestate">
+                            <div class="featured-icon-box left-icon style1 ttm-bgcolor-skincolor">
+                                <div class="featured-icon"><!--  featured-icon -->
+                                    <div class="ttm-icon ttm-icon_element-bgcolor-darkgrey ttm-icon_element-size-md">
+                                        <i class="flaticon flaticon-system"></i><!--  ttm-icon -->
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="featured-content"><!--  featured-content -->
-                                <div class="featured-title"><!--  featured-title -->
-                                    <h5>Real Estate and Property Management</h5>
+                                <div class="featured-content"><!--  featured-content -->
+                                    <div class="featured-title"><!--  featured-title -->
+                                        <h5>Real Estate and Property Management</h5>
+                                    </div>
                                 </div>
-                            </div>
-                        </div><!--  featured-icon-box END -->
+                            </div><!--  featured-icon-box END -->
+                        </a>
+
                     </div>
                     <div class="col-md-4">
                         <!--  featured-icon-box -->
@@ -144,127 +91,97 @@
                 </div>
             </div>
         </section>
-        <!-- zero-padding-section -->
 
-        <!-- portfolio-section -->
-        <section class="ttm-row zero-padding-section clearfix">
-            <div class="container-fluid">
-                <div class="row portfolio-slide owl-carousel ttm-boxes-spacing-10px" data-item="5"
-                     data-nav="false" data-dots="false" data-auto="false">
-
-                    <div class="col-lg ttm-box-col-wrapper">
-                        <!-- featured-imagebox-portfolio -->
-                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                            <!-- featured-thumbnail -->
-                            <div class="featured-thumbnail">
-                                <img class="img-fluid lazyload" data-src="images/services/i2.jpg" alt="image">
-                            </div><!-- featured-thumbnail end-->
-                            <!-- ttm-box-view-overlay -->
-                            <div class="ttm-box-view-overlay">
-                                <div class="featured-iconbox ttm-media-link"><!-- ttm-media-link -->
-                                    <a class="ttm_prettyphoto ttm_image"
-                                       data-gal="prettyPhoto[gallery1]" title="" data-rel="prettyPhoto"
-                                       href="images/services/i2.jpg"><i class="ti ti-search"></i></a>
+        <section class="ttm-row about-services-section clearfix">
+            <div class="container">
+                <div class="row align-items-center"><!-- row -->
+                    <div class="col-lg-6">
+                        <div class="position-relative">
+                            <!-- ttm_single_image-wrapper -->
+                            <div class="ttm_single_image-wrapper text-sm-center">
+                                <div class="polaroid">
+                                    <img class="img-fluid"
+                                         src="assets/images/installation/img3.jpeg"
+                                         title="single-img-ten" alt="single-img-ten">
                                 </div>
-                            </div><!-- ttm-box-view-overlay end-->
-                            <div class="featured-content">
-                                <div class="featured-title"><!-- featured-title -->
-                                    <h5><a href="#">Real Estate/Property Development</a></h5>
+                            </div><!-- ttm_single_image-wrapper end -->
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="res-991-mt-30">
+                            <!-- section title -->
+                            <div class="section-title with-desc clearfix">
+                                <div class="title-header">
+                                    <h5>About us</h5>
+                                    <h2 class="title">ROYAL SHILO GHANA LTD</h2>
+                                </div>
+                                <div class="title-desc">
+                                    <p>
+                                        A 100% Ghanaian owned incorporated company since 2014. Although young the company Executives are
+                                        very experienced in every area of our business transactions, ie. Real Estate/Property development,
+                                        Trading/Distributing of Petroleum Oil products and Gold Mining.
+                                    </p>
+                                </div>
+                            </div><!-- section title end -->
+                            <!-- row -->
+                            <div class="row mt-15">
+                                <div class="col-12">
+                                    <!-- featured-icon-box -->
+                                    <div class="featured-icon-box style3 left-icon icon-align-top">
+                                        <div class="featured-icon"><!-- featured-icon -->
+                                            <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                                <i class="flaticon flaticon-global-1"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-title"><!-- featured title -->
+                                                <h5>Vision</h5>
+                                            </div>
+                                            <div class="featured-desc"><!-- featured desc -->
+                                                <p>
+                                                    Imaginary that Royal Shilo Ghana Ltd translates to Reality in Real Estate/Property Development,
+                                                    Oil and Mining Gold..
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div><!-- featured-thumbnail -->
-                    </div>
-                    <div class="col-lg ttm-box-col-wrapper">
-                        <!-- featured-imagebox-portfolio -->
-                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                            <!-- featured-thumbnail -->
-                            <div class="featured-thumbnail">
-                                <img class="img-fluid lazyload" data-src="images/services/i4.jpg" alt="image">
-                            </div><!-- featured-thumbnail end-->
-                            <!-- ttm-box-view-overlay -->
-                            <div class="ttm-box-view-overlay">
-                                <div class="featured-iconbox ttm-media-link"><!-- ttm-media-link -->
-                                    <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title=""
-                                       data-rel="prettyPhoto" href="images/services/i4.jpg"><i class="ti ti-search"></i></a>
-                                </div>
-                            </div><!-- ttm-box-view-overlay end-->
-                            <div class="featured-content">
-                                <div class="featured-title"><!-- featured-title -->
-                                    <h5><a href="#">Distributing of Petroleum Oil Products</a></h5>
+                            <!-- separator -->
+                            <div class="separator">
+                                <div class="sep-line mt-25 mb-10"></div>
+                            </div>
+                            <!-- separator -->
+                            <div class="row">
+                                <div class="col-12">
+                                    <!-- featured-icon-box -->
+                                    <div class="featured-icon-box style3 left-icon icon-align-top">
+                                        <div class="featured-icon"><!-- featured-icon -->
+                                            <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
+                                                <i class="flaticon flaticon-process"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="featured-title"><!-- featured title -->
+                                                <h5>Mission</h5>
+                                            </div>
+                                            <div class="featured-desc"><!-- featured desc -->
+                                                <p>
+                                                   Our Commissioned commitment to serve our clients in Regional Africa and the Diaspora, with delivery of quality Housing, petroleum products in Oil as well as Gold. Royal Shilo Ghana Ltd, aspires to invest in Strategic immovable assets for sustainable business growth, maintaining the highest standards of business relationship in all transactions with our esteemed clientele.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div><!-- featured-thumbnail -->
+                        </div>
                     </div>
-                    <div class="col-lg ttm-box-col-wrapper">
-                        <!-- featured-imagebox-portfolio -->
-                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                            <!-- featured-thumbnail -->
-                            <div class="featured-thumbnail">
-                                <img class="img-fluid lazyload" data-src="images/services/i5.jpg" alt="image">
-                            </div><!-- featured-thumbnail end-->
-                            <!-- ttm-box-view-overlay -->
-                            <div class="ttm-box-view-overlay">
-                                <div class="featured-iconbox ttm-media-link"><!-- ttm-media-link -->
-                                    <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title=""
-                                       data-rel="prettyPhoto" href="images/services/i5.jpg"><i class="ti ti-search"></i></a>
-                                </div>
-                            </div><!-- ttm-box-view-overlay end-->
-                            <div class="featured-content">
-                                <div class="featured-title"><!-- featured-title -->
-                                    <h5><a href="#">Oil Paints</a></h5>
-                                </div>
-                            </div>
-                        </div><!-- featured-thumbnail -->
-                    </div>
-                    <div class="col-lg ttm-box-col-wrapper">
-                        <!-- featured-imagebox-portfolio -->
-                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                            <!-- featured-thumbnail -->
-                            <div class="featured-thumbnail">
-                                <img class="img-fluid lazyload" data-src="images/services/i6.jpg" alt="image">
-                            </div><!-- featured-thumbnail end-->
-                            <!-- ttm-box-view-overlay -->
-                            <div class="ttm-box-view-overlay">
-                                <div class="featured-iconbox ttm-media-link"><!-- ttm-media-link -->
-                                    <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]"
-                                       title="" data-rel="prettyPhoto" href="images/services/i6.jpg"><i class="ti ti-search"></i></a>
-                                </div>
-                            </div><!-- ttm-box-view-overlay end-->
-                            <div class="featured-content">
-                                <div class="featured-title"><!-- featured-title -->
-                                    <h5><a href="#">Gold Mines</a></h5>
-                                </div>
-                            </div>
-                        </div><!-- featured-thumbnail -->
-                    </div>
-                    <div class="col-lg ttm-box-col-wrapper">
-                        <!-- featured-imagebox-portfolio -->
-                        <div class="featured-imagebox featured-imagebox-portfolio style1">
-                            <!-- featured-thumbnail -->
-                            <div class="featured-thumbnail">
-                                <img class="img-fluid lazyload" data-src="images/services/i7.jpg" alt="image">
-                            </div><!-- featured-thumbnail end-->
-                            <!-- ttm-box-view-overlay -->
-                            <div class="ttm-box-view-overlay">
-                                <div class="featured-iconbox ttm-media-link"><!-- ttm-media-link -->
-                                    <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]"
-                                       title="" data-rel="prettyPhoto" href="images/services/i7.jpg"><i class="ti ti-search"></i></a>
-                                </div>
-                            </div><!-- ttm-box-view-overlay end-->
-                            <div class="featured-content">
-                                <div class="featured-title"><!-- featured-title -->
-                                    <h5><a href="#">Gold Bars</a></h5>
-                                </div>
-                            </div>
-                        </div><!-- featured-thumbnail -->
-                    </div>
-
                 </div>
+                <!-- row end -->
             </div>
         </section>
-        <!-- portfolio-section -->
 
-    </div><!--site-main end-->
-
+    </div>
+<!--site-main end-->
 
 <?php include "includes/footer.php"; ?>

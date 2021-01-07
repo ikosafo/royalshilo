@@ -145,7 +145,7 @@
                             </div>
                             <div class="col-sm-12 col-md-12">
                                 <div class="form-group">
-                                    <textarea name="Massage" rows="5" placeholder="Write A Massage..." required="required" class="form-control bg-white"></textarea>
+                                    <textarea name="Massage" rows="5" placeholder="Write A Message..." required="required" class="form-control bg-white"></textarea>
                                 </div>
                             </div>
                             <div class="col-md-12">

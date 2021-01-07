@@ -11,31 +11,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
     <title>ROYAL SHILO GHANA LTD - Company With a Difference</title>
     <!-- favicon icon -->
-    <link rel="shortcut icon" href="images/logo.jpeg"/>
+    <link rel="shortcut icon" href="assets/images/logo.jpeg"/>
     <!-- bootstrap -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css"/>
     <!-- animate -->
-    <link rel="stylesheet" type="text/css" href="css/animate.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/animate.css"/>
     <!-- owl-carousel -->
-    <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.css">
     <!-- fontawesome -->
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css"/>
     <!-- themify -->
-    <link rel="stylesheet" type="text/css" href="css/themify-icons.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/themify-icons.css"/>
     <!-- flaticon -->
-    <link rel="stylesheet" type="text/css" href="css/flaticon.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/flaticon.css"/>
     <!-- REVOLUTION LAYERS STYLES -->
-    <link rel="stylesheet" type="text/css" href="revolution/css/rs6.css">
+    <link rel="stylesheet" type="text/css" href="assets/revolution/css/rs6.css">
     <!-- prettyphoto -->
-    <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/prettyPhoto.css">
     <!-- shortcodes -->
-    <link rel="stylesheet" type="text/css" href="css/shortcodes.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/shortcodes.css"/>
     <!-- main -->
-    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css"/>
     <!-- responsive -->
-    <link rel="stylesheet" type="text/css" href="css/responsive.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css"/>
     <!-- custom -->
-    <link rel="stylesheet" type="text/css" href="css/custom.css"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/custom.css"/>
 </head>
 
 <body>
@@ -57,7 +57,7 @@
                 <div class="ttm-topbar-content">
                     <ul class="top-contact text-left">
                         <li><i class="fa fa-map-marker"></i>Accra, Ghana</li>
-                        <li><i class="fa fa-envelope-o"></i><a href="mailto:richardkwasi56@gmail.com">richardkwasi56@gmail.com</a></li>
+                        <li><i class="fa fa-envelope-o"></i><a href="mailto:info@royalshiloghana.com">info@royalshiloghana.com</a></li>
                         <li><i class="fa fa-phone"></i><a href="#">+233(0)244827573/+233(0)594818739</a></li>
                     </ul>
                     <div class="topbar-right text-right">
@@ -92,8 +92,8 @@
                         <div class="container">
                             <!-- site-branding -->
                             <div class="site-branding">
-                                <a class="home-link" href="/" title="Altech" rel="home">
-                                    <img id="logo-img" class="img-center lazyload" data-src="images/logo.jpeg"
+                                <a class="home-link" href="/" title="Royal Shilo" rel="home">
+                                    <img id="logo-img" class="img-center lazyload" data-src="assets/images/logo.jpeg"
                                          alt="logo">
                                 </a>
                             </div><!-- site-branding end -->
@@ -109,7 +109,8 @@
                                                     <div class="w-search-form-h">
                                                         <div class="w-search-form-row">
                                                             <div class="w-search-input">
-                                                                <input type="search" class="field searchform-s" name="s" placeholder="Type Word Then Enter...">
+                                                                <input type="search" class="field searchform-s" name="s"
+                                                                       placeholder="Type Word Then Enter...">
                                                                 <button type="submit">
                                                                     <i class="ti ti-search"></i>
                                                                 </button>
