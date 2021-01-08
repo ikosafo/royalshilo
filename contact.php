@@ -102,7 +102,7 @@
                                             <h5>Our Email</h5>
                                         </div>
                                         <div class="featured-desc"><!-- featured desc -->
-                                            <p>richardkwasi56@gmail.com</p>
+                                            <p>info@royalshiloghana.com</p>
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +119,7 @@
                         <div class="section-title with-desc clearfix">
                             <div class="title-header">
                                 <h5>Send Message</h5>
-                                <h2 class="title">Drop Us A Line</h2>
+                                <h2 class="title">Drop Us A Message</h2>
                             </div>
                         </div><!-- section title end -->
                         <form id="ttm-quote-form" class="row ttm-quote-form clearfix" method="post" action="#">
@@ -151,7 +151,7 @@
                             <div class="col-md-12">
                                 <div class="text-left">
                                     <button type="button" id="submit" class="ttm-btn ttm-btn-size-md ttm-btn-bgcolor-skincolor" value="">
-                                        Submit Quote
+                                        Submit
                                     </button>
                                 </div>
                             </div>

@@ -1,15 +1,5 @@
 <?php include "includes/header.php"; ?>
 
-<style>
-    div.polaroid {
-        width: 80%;
-        background-color: white;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-        margin-bottom: 25px;
-    }
-
-</style>
-
 <!--site-main start-->
     <div class="site-main">
 
@@ -40,7 +30,7 @@
         <section class="ttm-row zero-padding-section position-relative z-1 clearfix">
             <div class="container">
                 <div class="row no-gutters ttm-bgcolor-darkgrey featured-icon-box-style1-row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <!--  featured-icon-box -->
                         <a href="realestate">
                             <div class="featured-icon-box left-icon style1 ttm-bgcolor-skincolor">
@@ -56,11 +46,11 @@
                                 </div>
                             </div><!--  featured-icon-box END -->
                         </a>
-
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <!--  featured-icon-box -->
-                        <div class="featured-icon-box left-icon style1 ttm-bgcolor-darkgrey">
+                        <a href="petroleum">
+                            <div class="featured-icon-box left-icon style1 ttm-bgcolor-darkgrey">
                             <div class="featured-icon"><!--  featured-icon -->
                                 <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md">
                                     <i class="flaticon flaticon-business-and-finance "></i><!--  ttm-icon -->
@@ -72,10 +62,12 @@
                                 </div>
                             </div>
                         </div><!--  featured-icon-box END -->
+                        </a>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <!--  featured-icon-box -->
-                        <div class="featured-icon-box left-icon style1 ttm-bgcolor-skincolor">
+                        <a href="generalgoods">
+                           <div class="featured-icon-box left-icon style1 ttm-bgcolor-skincolor">
                             <div class="featured-icon"><!--  featured-icon -->
                                 <div class="ttm-icon ttm-icon_element-bgcolor-darkgrey ttm-icon_element-size-md">
                                     <i class="flaticon flaticon-interaction"></i><!--  ttm-icon -->
@@ -87,6 +79,24 @@
                                 </div>
                             </div>
                         </div><!--  featured-icon-box END -->
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <!--  featured-icon-box -->
+                        <a href="goldmining">
+                            <div class="featured-icon-box left-icon style1 ttm-bgcolor-darkgrey">
+                                <div class="featured-icon"><!--  featured-icon -->
+                                    <div class="ttm-icon ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-md">
+                                        <i class="flaticon flaticon-data"></i><!--  ttm-icon -->
+                                    </div>
+                                </div>
+                                <div class="featured-content"><!--  featured-content -->
+                                    <div class="featured-title"><!--  featured-title -->
+                                        <h5>Gold Mining <br>and Bars</h5>
+                                    </div>
+                                </div>
+                            </div><!--  featured-icon-box END -->
+                        </a>
                     </div>
                 </div>
             </div>
@@ -167,7 +177,10 @@
                                             </div>
                                             <div class="featured-desc"><!-- featured desc -->
                                                 <p>
-                                                   Our Commissioned commitment to serve our clients in Regional Africa and the Diaspora, with delivery of quality Housing, petroleum products in Oil as well as Gold. Royal Shilo Ghana Ltd, aspires to invest in Strategic immovable assets for sustainable business growth, maintaining the highest standards of business relationship in all transactions with our esteemed clientele.
+                                                    Our Commissioned commitment to serve our clients in Regional Africa and the Diaspora, with delivery of
+                                                    quality Housing, petroleum products in Oil as well as Gold. Royal Shilo Ghana Ltd, aspires to invest in
+                                                    Strategic immovable assets for sustainable business growth, maintaining the highest standards of business
+                                                    relationship in all transactions with our esteemed clientele.
                                                 </p>
                                             </div>
                                         </div>

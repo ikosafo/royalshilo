@@ -66,7 +66,10 @@
                     <div class="position-relative res-991-mt-30">
                         <!-- ttm_single_image-wrapper -->
                         <div class="ttm_single_image-wrapper text-sm-center">
-                            <img class="img-fluid" src="images/single-img-seven.png" title="About image" alt="About-image">
+                            <div class="polaroid">
+                                <img class="img-fluid" src="assets/images/installation/img2.jpeg"
+                                     title="About image" alt="About-image">
+                            </div>
                         </div><!-- ttm_single_image-wrapper end -->
                     </div>
                 </div>

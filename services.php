@@ -47,58 +47,87 @@
                 <div class="col-lg-6 col-md-6 col-sm-10 col-10 m-auto">
                     <!-- ttm_single_image-wrapper -->
                     <div class="ttm_single_image-wrapper">
-                        <img class="img-fluid" src="images/vector_page/single_03.png" alt="single-03">
+                        <div class="polaroid">
+                            <img class="img-fluid" src="assets/images/realestate/img6.jpeg"
+                                 title="About image" alt="About-image">
+                        </div>
                     </div><!-- ttm_single_image-wrapper end -->
                 </div>
                 <div class="col-lg-6">
                     <div class="pl-30 res-991-pl-0 res-991-mt-40">
                         <div class="mt-25">
                             <!-- featured-icon-box -->
+                            <a href="realestate">
+                                <div class="featured-icon-box left-icon icon-align-top">
+                                    <div class="featured-icon">
+                                        <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-xs ttm-icon_element-style-round pl-0">
+                                            <i class="ti ti-info ttm-num font-weight-bold"></i>
+                                        </div>
+                                    </div>
+                                    <div class="featured-content"><!-- featured-content -->
+                                        <div class="featured-title"><!-- featured-title -->
+                                            <h5>Real Estate and Property Management</h5>
+                                        </div>
+                                    </div>
+                                </div><!-- featured-icon-box -->
+                            </a>
+
+                        </div>
+                        <div class="separator">
+                            <div class="sep-line mt-30 mb-30"></div>
+                        </div>
+                        <!-- featured-icon-box -->
+                        <a href="petroleum">
                             <div class="featured-icon-box left-icon icon-align-top">
                                 <div class="featured-icon">
                                     <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-xs ttm-icon_element-style-round pl-0">
                                         <i class="ti ti-info ttm-num font-weight-bold"></i>
                                     </div>
                                 </div>
-                                <div class="featured-content"><!-- featured-content -->
+                                <div class="featured-content">
                                     <div class="featured-title"><!-- featured-title -->
-                                        <h5>Real Estate and Property Management</h5>
+                                        <h5>Trading & Distribution of Petroleum Products</h5>
                                     </div>
                                 </div>
                             </div><!-- featured-icon-box -->
-                        </div>
+                        </a>
                         <div class="separator">
                             <div class="sep-line mt-30 mb-30"></div>
                         </div>
                         <!-- featured-icon-box -->
-                        <div class="featured-icon-box left-icon icon-align-top">
-                            <div class="featured-icon">
-                                <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-xs ttm-icon_element-style-round pl-0">
-                                    <i class="ti ti-info ttm-num font-weight-bold"></i>
+                        <a href="generalgoods">
+                            <div class="featured-icon-box left-icon icon-align-top">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-xs ttm-icon_element-style-round pl-0">
+                                        <i class="ti ti-info ttm-num font-weight-bold"></i>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="featured-content">
-                                <div class="featured-title"><!-- featured-title -->
-                                    <h5>Trading & Distribution of Petroleum Products</h5>
+                                <div class="featured-content">
+                                    <div class="featured-title"><!-- featured-title -->
+                                        <h5>Import and Export of General goods</h5>
+                                    </div>
                                 </div>
-                            </div>
-                        </div><!-- featured-icon-box -->
+                            </div><!-- featured-icon-box -->
+                        </a>
                         <div class="separator">
                             <div class="sep-line mt-30 mb-30"></div>
                         </div>
                         <!-- featured-icon-box -->
-                        <div class="featured-icon-box left-icon icon-align-top">
-                            <div class="featured-icon">
-                                <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-xs ttm-icon_element-style-round pl-0">
-                                    <i class="ti ti-info ttm-num font-weight-bold"></i>
+                        <a href="goldmining">
+                            <div class="featured-icon-box left-icon icon-align-top">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-bgcolor-skincolor ttm-icon_element-size-xs ttm-icon_element-style-round pl-0">
+                                        <i class="ti ti-info ttm-num font-weight-bold"></i>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="featured-content">
-                                <div class="featured-title"><!-- featured-title -->
-                                    <h5>Import and Export of General goods</h5>
+                                <div class="featured-content">
+                                    <div class="featured-title"><!-- featured-title -->
+                                        <h5>Gold Mining</h5>
+                                    </div>
                                 </div>
-                            </div>
-                        </div><!-- featured-icon-box -->
+                            </div><!-- featured-icon-box -->
+                        </a>
+
                     </div>
                 </div>
             </div>
