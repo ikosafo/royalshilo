@@ -47,17 +47,21 @@
                     <div class="row no-gutters mt-35 mb-25">
                         <div class="col-md-12 col-lg-12 col-sm-12">
                             <ul class="ttm-list ttm-list-style-icon">
-                                <li><i class="fa fa-check-square-o ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">
+                                <li><i class="fa fa-check-square-o ttm-textcolor-skincolor"></i>
+                                    <span class="ttm-list-li-content">
                                         <strong>Vision</strong> is imaginary that Royal Shilo Ghana Ltd translates to
                                         Reality in Real Estate/Property Development,Oil and Mining Gold.
                                     </span></li>
-                                <li><i class="fa fa-check-square-o ttm-textcolor-skincolor"></i><span class="ttm-list-li-content">
+                                <li><i class="fa fa-check-square-o ttm-textcolor-skincolor"></i>
+                                    <span class="ttm-list-li-content">
                                         <strong>Mission</strong> is our Commissioned commitment to serve our clients in Regional Africa and the
                                         Diaspora, with delivery of quality Housing, petroleum products in Oil as well as Gold. Royal
                                         Shilo Ghana Ltd, aspires to invest in Strategic immovable assets for sustainable business growth,
                                         maintaining the highest standards of business relationship in all transactions with our
-                                        esteemed clientele.  </span></li>
-                                </ul>
+                                        esteemed clientele.
+                                    </span>
+                                </li>
+                            </ul>
                         </div>
                     </div><!-- row END-->
                    <a href="#" class="ttm-btn ttm-btn-bgcolor-skincolor ttm-btn-size-md mt-35">More About Us</a>
@@ -67,7 +71,7 @@
                         <!-- ttm_single_image-wrapper -->
                         <div class="ttm_single_image-wrapper text-sm-center">
                             <div class="polaroid">
-                                <img class="img-fluid" src="assets/images/installation/img2.jpeg"
+                                <img class="img-fluid" src="assets/images/img.jpeg"
                                      title="About image" alt="About-image">
                             </div>
                         </div><!-- ttm_single_image-wrapper end -->

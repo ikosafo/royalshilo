@@ -34,15 +34,56 @@
                         <!-- section title -->
                         <div class="section-title text-center with-desc clearfix">
                             <div class="title-header">
-                                <h5>Real Estate/Property Development</h5>
-                                <h2 class="title">Check out our <span>Portfolio</span></h2>
-                                <p>
-                                    Brief Description here
-                                </p>
+                                <!--<h5>Real Estate/Property Development</h5>-->
+                                <h2 class="title">Real Estate/Property <span>Development</span></h2>
+
                             </div>
                         </div><!-- section title end -->
                     </div>
                 </div>
+
+                <div class="row multi-columns-row ttm-boxes-spacing-10px ttm-bgcolor-white">
+                    <div class="">
+                        <!-- section title -->
+                        <div class="section-title with-desc clearfix">
+                            <div class="title-desc">
+                                <p>
+                                    We offer sale of service plots, land surveying, Building architecture, quantity surveying.
+                                </p>
+                                <p>
+                                    Too often homebuyers in Accra face the need to compromise when buying a property, forced by
+                                    market dynamics and unreliable suppliers to sacrifice either location or quality in order to
+                                    purchase a property they can afford.
+                                </p>
+                                <p>
+                                    Our homes present buyers with the opportunity to own a stylish, high-quality home in a central
+                                    location, at competitive prices. Market leading payment makes the investment even more
+                                    affordable.
+                                </p>
+                                <p>
+                                    This offer also translates to a high yield investment opportunity for buy-to-let investors.
+                                </p>
+                                <p>
+                                    We train our teams to care about the details, whether this is in relation to client communications,
+                                    managing construction costs, or interior fittings and finishing.
+                                </p>
+                                <p>
+                                    This combination has lead to a track record of sell-out developments, market leading asset growth and
+                                    rental yields, and an impressive record of repeat buyers and referrals.
+                                </p>
+                                <p>
+                                    We have launched many developments in Accra since 2014 with several units completed and
+                                    occupied. We have a major development currently under construction and exciting plans in pipeline.
+                                </p>
+                                <p>
+                                    We turn your property and real estate project into a massive success. Contact us today.
+                                </p>
+                            </div>
+                        </div><!-- section title end -->
+
+                    </div>
+                </div><!-- row end -->
+
                 <!-- row -->
                 <div class="row multi-columns-row ttm-boxes-spacing-10px ttm-bgcolor-white">
 

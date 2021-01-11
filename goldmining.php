@@ -34,16 +34,47 @@
                         <!-- section title -->
                         <div class="section-title text-center with-desc clearfix">
                             <div class="title-header">
-                                <h5>Gold Mining</h5>
-                                <h2 class="title">Check out our <span>Portfolio</span></h2>
-                                <p>
-                                    Brief Description here
-                                </p>
+                                <!--<h5>Gold Mining</h5>-->
+                                <h2 class="title">Gold <span>Mining</span></h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
                 </div>
                 <!-- row -->
+                <div class="row multi-columns-row ttm-boxes-spacing-10px ttm-bgcolor-white">
+                    <div class="">
+                        <!-- section title -->
+                        <div class="section-title with-desc clearfix">
+                            <div class="title-desc">
+                                <p>
+                                    Royal Shilo Ghana Ltd. is also into mining. It has been operating for over 6 years and evolved
+                                    over the years into what it is today as one of Ghana's most sought after pure gold Marketing
+                                    Company.
+                                </p>
+                                <p>
+                                    We refine and purify minerals at a greater value for money. Our production of pure gold for a
+                                    month increases from 45 kilograms per month to almost 92 kilograms due to the use of modern
+                                    machines in the mines.
+                                </p>
+                                <p>
+                                    Royal Shilo Ghana Ltd sell raw gold at good attractive price and also buys raw gold from other
+                                    companies to enable us meet supply of our customers.
+                                </p>
+                                <p>
+                                    The Director and management team agree to invite prospective investors for a joint-venture
+                                    business agreement. Investors are encouraged to join us in our ambitious quest of full-scale
+                                    mining expansion; to enable us meet supply of our prospective buyers worldwide;
+                                </p>
+                                <p>
+                                    For inspection and subsequent joint venture agreement with our company in respect of our new
+                                    mining field, and to buy gold from us, please contact us
+                                </p>
+                            </div>
+                        </div><!-- section title end -->
+
+                    </div>
+                </div><!-- row end -->
+
                 <div class="row multi-columns-row ttm-boxes-spacing-10px ttm-bgcolor-white">
 
                     <div class="ttm-box-col-wrapper col-lg-4 col-md-6 col-sm-6">

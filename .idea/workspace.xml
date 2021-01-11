@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32cb992-4a49-42f8-9400-a169a4b2cf16" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-06 at 12.32.40 PM.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-06 at 12.32.41 PM (1).jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-06 at 12.32.41 PM (2).jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-06 at 12.32.41 PM.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-06 at 12.32.42 PM (1).jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-06 at 12.32.42 PM.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-06 at 12.32.43 PM (1).jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-06 at 12.32.43 PM.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-07 at 12.26.51 AM.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-07 at 12.26.53 AM.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldbars\WhatsApp Image 2021-01-07 at 12.26.55 AM.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldmines\WhatsApp Image 2021-01-06 at 12.17.43 PM (1).jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldmines\WhatsApp Image 2021-01-06 at 12.17.43 PM.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldmines\WhatsApp Image 2021-01-07 at 12.26.53 AM (1).jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldmines\WhatsApp Image 2021-01-07 at 12.26.56 AM (1).jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldmines\WhatsApp Image 2021-01-07 at 12.26.56 AM.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldmines\WhatsApp Image 2021-01-07 at 12.26.57 AM.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\goldmines\WhatsApp Image 2021-01-07 at 12.26.58 AM.jpeg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/realestate/ttm-pagetitle-bg.jpg" afterPath="$PROJECT_DIR$/assets/images/realestate/ttm-pagetitle-bg.jpg" />
+      <change type="DELETED" beforePath="C:\wamp64\www\royalshilo\assets\images\realestate\ttm-pagetitle-bg.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/custom.css" afterPath="$PROJECT_DIR$/assets/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generalgoods.php" afterPath="$PROJECT_DIR$/generalgoods.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goldmining.php" afterPath="$PROJECT_DIR$/goldmining.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.php" afterPath="$PROJECT_DIR$/services.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/petroleum.php" afterPath="$PROJECT_DIR$/petroleum.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realestate.php" afterPath="$PROJECT_DIR$/realestate.php" />
     </list>
     <ignored path="royalshilo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,13 +34,19 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.769231">
-              <caret line="120" column="51" selection-start-line="120" selection-start-column="51" selection-end-line="120" selection-end-column="51" />
+            <state vertical-scroll-proportion="-11.653846">
+              <caret line="314" column="0" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
               <folding>
+                <element signature="n#section#0;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#section#1;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#a#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
+                <element signature="n#section#2;n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -65,31 +55,41 @@
       <file leaf-file-name="goldmining.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goldmining.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.115385">
-              <caret line="395" column="88" selection-start-line="395" selection-start-column="88" selection-end-line="395" selection-end-column="88" />
+            <state vertical-scroll-proportion="-9.807693">
+              <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
               <folding>
                 <element signature="e#1223#1259#0#HTML" expanded="true" />
-                <element signature="e#2574#2637#0#HTML" expanded="true" />
-                <element signature="e#3687#3750#0#HTML" expanded="true" />
-                <element signature="e#4800#4863#0#HTML" expanded="true" />
-                <element signature="e#5913#5976#0#HTML" expanded="true" />
-                <element signature="e#7026#7089#0#HTML" expanded="true" />
-                <element signature="e#8139#8202#0#HTML" expanded="true" />
-                <element signature="e#9252#9315#0#HTML" expanded="true" />
-                <element signature="e#10365#10428#0#HTML" expanded="true" />
-                <element signature="e#11477#11540#0#HTML" expanded="true" />
-                <element signature="e#12588#12651#0#HTML" expanded="true" />
-                <element signature="e#13699#13762#0#HTML" expanded="true" />
-                <element signature="e#14810#14873#0#HTML" expanded="true" />
-                <element signature="e#15921#15984#0#HTML" expanded="true" />
-                <element signature="e#17032#17095#0#HTML" expanded="true" />
-                <element signature="e#18143#18206#0#HTML" expanded="true" />
-                <element signature="e#19254#19317#0#HTML" expanded="true" />
-                <element signature="e#20365#20428#0#HTML" expanded="true" />
-                <element signature="e#21477#21540#0#HTML" expanded="true" />
-                <element signature="e#22589#22652#0#HTML" expanded="true" />
-                <element signature="e#23701#23764#0#HTML" expanded="true" />
+                <element signature="e#4697#4760#0#HTML" expanded="true" />
+                <element signature="e#5810#5873#0#HTML" expanded="true" />
+                <element signature="e#6923#6986#0#HTML" expanded="true" />
+                <element signature="e#8036#8099#0#HTML" expanded="true" />
+                <element signature="e#9149#9212#0#HTML" expanded="true" />
+                <element signature="e#10262#10325#0#HTML" expanded="true" />
+                <element signature="e#11375#11438#0#HTML" expanded="true" />
+                <element signature="e#12488#12551#0#HTML" expanded="true" />
+                <element signature="e#13600#13663#0#HTML" expanded="true" />
+                <element signature="e#14711#14774#0#HTML" expanded="true" />
+                <element signature="e#15822#15885#0#HTML" expanded="true" />
+                <element signature="e#16933#16996#0#HTML" expanded="true" />
+                <element signature="e#18044#18107#0#HTML" expanded="true" />
+                <element signature="e#19155#19218#0#HTML" expanded="true" />
+                <element signature="e#20266#20329#0#HTML" expanded="true" />
+                <element signature="e#21377#21440#0#HTML" expanded="true" />
+                <element signature="e#22488#22551#0#HTML" expanded="true" />
+                <element signature="e#23600#23663#0#HTML" expanded="true" />
+                <element signature="e#24712#24775#0#HTML" expanded="true" />
+                <element signature="e#25824#25887#0#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1730" column="1" selection-start-line="1730" selection-start-column="1" selection-end-line="1730" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,10 +97,10 @@
       <file leaf-file-name="generalgoods.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generalgoods.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.346154">
-              <caret line="46" column="92" selection-start-line="46" selection-start-column="92" selection-end-line="46" selection-end-column="92" />
+            <state vertical-scroll-proportion="-10.230769">
+              <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
               <folding>
-                <element signature="e#1246#1282#0#HTML" expanded="true" />
+                <element signature="e#1246#1313#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,26 +109,21 @@
       <file leaf-file-name="petroleum.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/petroleum.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.923077">
-              <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
+            <state vertical-scroll-proportion="-94.69231">
+              <caret line="169" column="44" selection-start-line="169" selection-start-column="44" selection-end-line="169" selection-end-column="44" />
               <folding>
                 <element signature="e#1256#1292#0#HTML" expanded="true" />
-                <element signature="e#2639#2702#0#HTML" expanded="true" />
-                <element signature="e#3773#3836#0#HTML" expanded="true" />
-                <element signature="e#4908#4971#0#HTML" expanded="true" />
-                <element signature="e#6043#6106#0#HTML" expanded="true" />
-                <element signature="e#7178#7241#0#HTML" expanded="true" />
+                <element signature="e#5322#5358#0#HTML" expanded="true" />
+                <element signature="e#7352#7388#0#HTML" expanded="true" />
+                <element signature="e#8971#9007#0#HTML" expanded="true" />
+                <element signature="e#9595#9631#0#HTML" expanded="true" />
+                <element signature="e#10594#10630#0#HTML" expanded="true" />
+                <element signature="e#12405#12468#0#HTML" expanded="true" />
+                <element signature="e#13539#13602#0#HTML" expanded="true" />
+                <element signature="e#14674#14737#0#HTML" expanded="true" />
+                <element signature="e#15809#15872#0#HTML" expanded="true" />
+                <element signature="e#16944#17007#0#HTML" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -143,11 +138,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.038462">
-              <caret line="71" column="34" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.33512545">
+              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -156,21 +151,21 @@
       <file leaf-file-name="realestate.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/realestate.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.615385">
-              <caret line="250" column="0" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+            <state vertical-scroll-proportion="-28.0">
+              <caret line="78" column="123" selection-start-line="78" selection-start-column="123" selection-end-line="78" selection-end-column="123" />
               <folding>
                 <element signature="e#1244#1280#0#HTML" expanded="true" />
-                <element signature="e#2617#2680#0#HTML" expanded="true" />
-                <element signature="e#3740#3803#0#HTML" expanded="true" />
-                <element signature="e#4863#4926#0#HTML" expanded="true" />
-                <element signature="e#5986#6049#0#HTML" expanded="true" />
-                <element signature="e#7109#7172#0#HTML" expanded="true" />
-                <element signature="e#8232#8295#0#HTML" expanded="true" />
-                <element signature="e#9355#9418#0#HTML" expanded="true" />
-                <element signature="e#10478#10541#0#HTML" expanded="true" />
-                <element signature="e#11602#11665#0#HTML" expanded="true" />
-                <element signature="e#12726#12789#0#HTML" expanded="true" />
-                <element signature="e#13850#13913#0#HTML" expanded="true" />
+                <element signature="e#5299#5362#0#HTML" expanded="true" />
+                <element signature="e#6422#6485#0#HTML" expanded="true" />
+                <element signature="e#7545#7608#0#HTML" expanded="true" />
+                <element signature="e#8668#8731#0#HTML" expanded="true" />
+                <element signature="e#9791#9854#0#HTML" expanded="true" />
+                <element signature="e#10914#10977#0#HTML" expanded="true" />
+                <element signature="e#12037#12100#0#HTML" expanded="true" />
+                <element signature="e#13160#13223#0#HTML" expanded="true" />
+                <element signature="e#14284#14347#0#HTML" expanded="true" />
+                <element signature="e#15408#15471#0#HTML" expanded="true" />
+                <element signature="e#16532#16595#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,10 +181,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="services.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45698926">
+            <state vertical-scroll-proportion="-9.769231">
               <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding />
             </state>
@@ -214,17 +209,17 @@
         <option value="$PROJECT_DIR$/assets/css/shortcodes.css" />
         <option value="$PROJECT_DIR$/includes/footer.php" />
         <option value="$PROJECT_DIR$/assets/css/responsive.css" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/realestate.php" />
-        <option value="$PROJECT_DIR$/petroleum.php" />
-        <option value="$PROJECT_DIR$/generalgoods.php" />
-        <option value="$PROJECT_DIR$/goldmining.php" />
         <option value="$PROJECT_DIR$/includes/header.php" />
         <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
-        <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/services.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/generalgoods.php" />
+        <option value="$PROJECT_DIR$/realestate.php" />
+        <option value="$PROJECT_DIR$/petroleum.php" />
+        <option value="$PROJECT_DIR$/goldmining.php" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/about.php" />
       </list>
     </option>
   </component>
@@ -285,6 +280,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="royalshilo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="royalshilo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="royalshilo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -387,10 +396,16 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#section#0;n#div#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#div#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#a#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -482,90 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1260" column="18" selection-start-line="1260" selection-start-column="18" selection-end-line="1260" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/realestate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.615385">
-          <caret line="250" column="0" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
-          <folding>
-            <element signature="e#1244#1280#0#HTML" expanded="true" />
-            <element signature="e#2617#2680#0#HTML" expanded="true" />
-            <element signature="e#3740#3803#0#HTML" expanded="true" />
-            <element signature="e#4863#4926#0#HTML" expanded="true" />
-            <element signature="e#5986#6049#0#HTML" expanded="true" />
-            <element signature="e#7109#7172#0#HTML" expanded="true" />
-            <element signature="e#8232#8295#0#HTML" expanded="true" />
-            <element signature="e#9355#9418#0#HTML" expanded="true" />
-            <element signature="e#10478#10541#0#HTML" expanded="true" />
-            <element signature="e#11602#11665#0#HTML" expanded="true" />
-            <element signature="e#12726#12789#0#HTML" expanded="true" />
-            <element signature="e#13850#13913#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generalgoods.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.346154">
-          <caret line="46" column="92" selection-start-line="46" selection-start-column="92" selection-end-line="46" selection-end-column="92" />
-          <folding>
-            <element signature="e#1246#1282#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/petroleum.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.923077">
-          <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
-          <folding>
-            <element signature="e#1256#1292#0#HTML" expanded="true" />
-            <element signature="e#2639#2702#0#HTML" expanded="true" />
-            <element signature="e#3773#3836#0#HTML" expanded="true" />
-            <element signature="e#4908#4971#0#HTML" expanded="true" />
-            <element signature="e#6043#6106#0#HTML" expanded="true" />
-            <element signature="e#7178#7241#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goldmining.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.115385">
-          <caret line="395" column="88" selection-start-line="395" selection-start-column="88" selection-end-line="395" selection-end-column="88" />
-          <folding>
-            <element signature="e#1223#1259#0#HTML" expanded="true" />
-            <element signature="e#2574#2637#0#HTML" expanded="true" />
-            <element signature="e#3687#3750#0#HTML" expanded="true" />
-            <element signature="e#4800#4863#0#HTML" expanded="true" />
-            <element signature="e#5913#5976#0#HTML" expanded="true" />
-            <element signature="e#7026#7089#0#HTML" expanded="true" />
-            <element signature="e#8139#8202#0#HTML" expanded="true" />
-            <element signature="e#9252#9315#0#HTML" expanded="true" />
-            <element signature="e#10365#10428#0#HTML" expanded="true" />
-            <element signature="e#11477#11540#0#HTML" expanded="true" />
-            <element signature="e#12588#12651#0#HTML" expanded="true" />
-            <element signature="e#13699#13762#0#HTML" expanded="true" />
-            <element signature="e#14810#14873#0#HTML" expanded="true" />
-            <element signature="e#15921#15984#0#HTML" expanded="true" />
-            <element signature="e#17032#17095#0#HTML" expanded="true" />
-            <element signature="e#18143#18206#0#HTML" expanded="true" />
-            <element signature="e#19254#19317#0#HTML" expanded="true" />
-            <element signature="e#20365#20428#0#HTML" expanded="true" />
-            <element signature="e#21477#21540#0#HTML" expanded="true" />
-            <element signature="e#22589#22652#0#HTML" expanded="true" />
-            <element signature="e#23701#23764#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.5">
@@ -582,19 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.769231">
-          <caret line="120" column="51" selection-start-line="120" selection-start-column="51" selection-end-line="120" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#a#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -603,18 +521,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.php">
+    <entry file="file://$PROJECT_DIR$/services.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.038462">
-          <caret line="71" column="34" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+        <state vertical-scroll-proportion="-9.769231">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45698926">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state vertical-scroll-proportion="-11.653846">
+          <caret line="314" column="0" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#1;n#div#1;n#section#3;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realestate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.0">
+          <caret line="78" column="123" selection-start-line="78" selection-start-column="123" selection-end-line="78" selection-end-column="123" />
+          <folding>
+            <element signature="e#1244#1280#0#HTML" expanded="true" />
+            <element signature="e#5299#5362#0#HTML" expanded="true" />
+            <element signature="e#6422#6485#0#HTML" expanded="true" />
+            <element signature="e#7545#7608#0#HTML" expanded="true" />
+            <element signature="e#8668#8731#0#HTML" expanded="true" />
+            <element signature="e#9791#9854#0#HTML" expanded="true" />
+            <element signature="e#10914#10977#0#HTML" expanded="true" />
+            <element signature="e#12037#12100#0#HTML" expanded="true" />
+            <element signature="e#13160#13223#0#HTML" expanded="true" />
+            <element signature="e#14284#14347#0#HTML" expanded="true" />
+            <element signature="e#15408#15471#0#HTML" expanded="true" />
+            <element signature="e#16532#16595#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroleum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-94.69231">
+          <caret line="169" column="44" selection-start-line="169" selection-start-column="44" selection-end-line="169" selection-end-column="44" />
+          <folding>
+            <element signature="e#1256#1292#0#HTML" expanded="true" />
+            <element signature="e#5322#5358#0#HTML" expanded="true" />
+            <element signature="e#7352#7388#0#HTML" expanded="true" />
+            <element signature="e#8971#9007#0#HTML" expanded="true" />
+            <element signature="e#9595#9631#0#HTML" expanded="true" />
+            <element signature="e#10594#10630#0#HTML" expanded="true" />
+            <element signature="e#12405#12468#0#HTML" expanded="true" />
+            <element signature="e#13539#13602#0#HTML" expanded="true" />
+            <element signature="e#14674#14737#0#HTML" expanded="true" />
+            <element signature="e#15809#15872#0#HTML" expanded="true" />
+            <element signature="e#16944#17007#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generalgoods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.230769">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <element signature="e#1246#1313#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goldmining.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+          <folding>
+            <element signature="e#1223#1259#0#HTML" expanded="true" />
+            <element signature="e#4697#4760#0#HTML" expanded="true" />
+            <element signature="e#5810#5873#0#HTML" expanded="true" />
+            <element signature="e#6923#6986#0#HTML" expanded="true" />
+            <element signature="e#8036#8099#0#HTML" expanded="true" />
+            <element signature="e#9149#9212#0#HTML" expanded="true" />
+            <element signature="e#10262#10325#0#HTML" expanded="true" />
+            <element signature="e#11375#11438#0#HTML" expanded="true" />
+            <element signature="e#12488#12551#0#HTML" expanded="true" />
+            <element signature="e#13600#13663#0#HTML" expanded="true" />
+            <element signature="e#14711#14774#0#HTML" expanded="true" />
+            <element signature="e#15822#15885#0#HTML" expanded="true" />
+            <element signature="e#16933#16996#0#HTML" expanded="true" />
+            <element signature="e#18044#18107#0#HTML" expanded="true" />
+            <element signature="e#19155#19218#0#HTML" expanded="true" />
+            <element signature="e#20266#20329#0#HTML" expanded="true" />
+            <element signature="e#21377#21440#0#HTML" expanded="true" />
+            <element signature="e#22488#22551#0#HTML" expanded="true" />
+            <element signature="e#23600#23663#0#HTML" expanded="true" />
+            <element signature="e#24712#24775#0#HTML" expanded="true" />
+            <element signature="e#25824#25887#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1730" column="1" selection-start-line="1730" selection-start-column="1" selection-end-line="1730" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33512545">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
           <folding />
         </state>
       </provider>
